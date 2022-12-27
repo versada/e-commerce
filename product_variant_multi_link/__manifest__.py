@@ -4,12 +4,12 @@
 
 {
     "name": "Product Multi Links (Variant)",
-    "version": "14.0.1.0.0",
+    "version": "14.0.1.1.0",
     "category": "Generic Modules",
     "author": "Camptocamp SA, Odoo Community Association (OCA)",
     "website": "https://github.com/OCA/e-commerce",
     "license": "AGPL-3",
     "depends": ["product_template_multi_link"],
-    "data": ["views/product_template_link_view.xml"],
+    "data": ["views/product_template_link_view.xml", "views/product_product_view.xml"],
     "installable": True,
 }

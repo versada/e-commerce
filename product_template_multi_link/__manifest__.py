@@ -4,7 +4,7 @@
 
 {
     "name": "Product Multi Links (Template)",
-    "version": "14.0.1.1.0",
+    "version": "14.0.1.2.0",
     "category": "Generic Modules",
     "author": "GRAP, ACSONE SA/NV, Odoo Community Association (OCA)",
     "website": "https://github.com/OCA/e-commerce",
@@ -19,6 +19,7 @@
         "views/product_template_view.xml",
         "views/product_template_link_view.xml",
         "views/menu.xml",
+        "wizards/product_template_linker.xml",
     ],
     "demo": ["demo/product_template_link_type.xml", "demo/product_template_link.xml"],
     "installable": True,
